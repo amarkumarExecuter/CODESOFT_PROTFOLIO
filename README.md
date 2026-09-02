@@ -4,5 +4,5 @@ Portfolio
 │
 ├── index.html
 ├── style.css
-└── script.js /n
+└── script.js 
 ```
